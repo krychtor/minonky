@@ -1,16 +1,90 @@
-### Hi there 👋
+<br/>
+<div align="center">
+  <a href="https://www.krychtalek.eu">
+    <img src="https://www.krychtalek.eu/assets/favicon.png" alt="Logo" width="80" height="80">
+  </a>
+  
+  <h3 align="center">Martin Krychtálek (MakoPog)</h3>
+  <p aligh="center">
+    Web Designer & Web Developer / IT Specialist
+  <br>
+  <br>
+  <a href="https://www.krychtalek.eu"><strong>Website</strong></a>
+</div>
 
-<!--
-**mkrychtalek/mkrychtalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://gitlab.com/makopog">
+    <img src="https://skillicons.dev/icons?i=gitlab"/>
+  </a>
+   <a href="https://codepen.io/mkrychtalek">
+    <img src="https://skillicons.dev/icons?i=codepen"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## Programming Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html,css"/>
+  </a>
+</p>
+
+## Operating Systems
+
+<p align="center">
+  <a href="">
+    <img src="https://img.icons8.com/fluency/48/null/windows-11.png"/>
+    <img src="https://img.icons8.com/color/48/null/windows-10.png"/>
+    <img src="https://img.icons8.com/color/48/null/windows-logo.png"/>
+    
+  </a>
+</p>
+
+## Languages
+
+<p align="center">
+  <a href="">
+    <img src="https://img.icons8.com/color/48/null/czech-republic-circular.png"/>
+    <img src="https://img.icons8.com/color/48/null/usa-circular.png"/>
+    <img src="https://img.icons8.com/color/48/null/great-britain-circular.png"/>
+  </a>
+</p>
+
+## Code Editors
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio"/>
+  </a>
+</p>
+
+## Web Hosting
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=vercel,cloudflare,github"/>
+  </a>
+</p>
+
+## Cloud Hosting
+
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure"/>
+  </a>
+</p>
+
+## My Projects
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.icons8.com/color/48/null/under-construction.png"/>
+  </a>
+</p>
+
+## My Stats
+
+<p align="center">
+  <a href="">
+    <img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mkrychtalek&theme=github-dark"/>
+</p>

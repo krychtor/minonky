@@ -6,7 +6,7 @@
   
   <h3 align="center">Martin Krychtálek (MakoPog)</h3>
   <p aligh="center">
-    Web Designer & Web Developer / IT Specialist
+    Web Designer & Web Developer<br>IT Specialist
   <br>
   <br>
   <a href="https://www.krychtalek.eu"><strong>Website</strong></a>

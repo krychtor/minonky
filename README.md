@@ -29,7 +29,7 @@
   </a>
 </p>
 
-## Operating Systems
+## OS Knowledge
 
 <p align="center">
   <a href="">

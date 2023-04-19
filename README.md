@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
   <a href="https://www.krychtalek.eu">
-    <img src="https://www.krychtalek.eu/assets/favicon.png" alt="Logo" width="80" height="80">
+    <img src="https://www.krychtalek.link/favicon" alt="Logo" width="80" height="80">
   </a>
   
   <h3 align="center">Martin Krychtálek (MakoPog)</h3>

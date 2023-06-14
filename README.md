@@ -4,11 +4,12 @@
     <img src="https://www.krychtalek.link/favicon" alt="Logo" width="80" height="80">
   </a>
   
-  <h3 align="center">Martin Krychtálek (MakoPog)</h3>
-<p align="center">HTML, CSS, JS Developer<br>Windows Technician</p>
+  <h3 align="center">Martin Krychtálek (MakoDev)</h3>
+<p align="center">HTML, CSS Developer
   <br>
   <br>
-  <a href="https://www.krychtalek.eu"><strong>Website</strong></a>
+  <a href="https://www.makodev.co"><strong>Website</strong></a>
+    <a href="https://www.krychtalek.eu"><strong>Personal Website</strong></a>
 </div>
 
 <p align="center">

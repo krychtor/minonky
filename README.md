@@ -54,8 +54,8 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://github.com/mkrychtalek/mkrychtalek/assets/93790230/e14a7779-8c1c-40f5-abc0-3c2f82a09108"/>
-    <img src="https://github.com/mkrychtalek/mkrychtalek/assets/93790230/4b6e994e-62cb-4ec5-b775-114fcecd0b91"/>
+    <img src="https://github.com/mkrychtalek/mkrychtalek/assets/93790230/e14a7779-8c1c-40f5-abc0-3c2f82a09108" width="48px" height="48px"/>
+    <img src="https://github.com/mkrychtalek/mkrychtalek/assets/93790230/4b6e994e-62cb-4ec5-b775-114fcecd0b91" width="48px" height="48px"/>
   </a>
 </p>
 

@@ -8,7 +8,7 @@
 <p align="center">HTML, CSS Developer
   <br>
   <br>
-  <a href="https://www.makodev.co"><strong>Website</strong></a>
+  <a href="https://www.makodev.co"><strong>Website</strong></a><br>
     <a href="https://www.krychtalek.eu"><strong>Personal Website</strong></a>
 </div>
 
@@ -24,7 +24,7 @@
 ## Programming Languages
 
 <p align="center">
-  <a href="">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css"/>
   </a>
 </p>
@@ -32,7 +32,7 @@
 ## OS Knowledge
 
 <p align="center">
-  <a href="">
+  <a href="#">
     <img src="https://img.icons8.com/fluency/48/null/windows-11.png"/>
     <img src="https://img.icons8.com/color/48/null/windows-10.png"/>
     <img src="https://img.icons8.com/color/48/null/windows-logo.png"/>
@@ -43,7 +43,7 @@
 ## Languages
 
 <p align="center">
-  <a href="">
+  <a href="#">
     <img src="https://img.icons8.com/color/48/null/czech-republic-circular.png"/>
     <img src="https://img.icons8.com/color/48/null/usa-circular.png"/>
     <img src="https://img.icons8.com/color/48/null/great-britain-circular.png"/>
@@ -53,38 +53,15 @@
 ## Code Editors
 
 <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio"/>
-  </a>
-</p>
-
-## Web Hosting
-
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=vercel,cloudflare,github"/>
-  </a>
-</p>
-
-## Cloud Hosting
-
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure"/>
-  </a>
-</p>
-
-## My Projects
-
-<p align="center">
   <a href="#">
-    <img src="https://img.icons8.com/color/48/null/under-construction.png"/>
+    <img src="https://github.com/mkrychtalek/mkrychtalek/assets/93790230/e14a7779-8c1c-40f5-abc0-3c2f82a09108"/>
+    <img src="https://github.com/mkrychtalek/mkrychtalek/assets/93790230/4b6e994e-62cb-4ec5-b775-114fcecd0b91"/>
   </a>
 </p>
 
 ## My Stats
 
 <p align="center">
-  <a href="">
+  <a href="#">
     <img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mkrychtalek&theme=github-dark"/>
 </p>

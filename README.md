@@ -4,7 +4,7 @@
     <img src="https://www.krychtalek.link/favicon" alt="Logo" width="80" height="80">
   </a>
   
-  <h3 align="center">Martin Krychtálek (MakoDev)</h3>
+  <h3 align="center">Martin Krychtálek (MakoDev/MakoPog)</h3>
 <p align="center">HTML, CSS Developer
   <br>
   <br>

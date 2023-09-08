@@ -8,8 +8,8 @@
 <p align="center">HTML, CSS Developer
   <br>
   <br>
-  <a href="https://www.makodev.co"><strong>Website</strong></a><br>
-    <a href="https://www.krychtalek.eu"><strong>Personal Website</strong></a>
+  <a href="https://krychtalek.dev/makopog"><strong>Website</strong></a><br>
+    <a href="https://krychtalek.dev"><strong>Personal Website</strong></a>
 </div>
 
 <p align="center">

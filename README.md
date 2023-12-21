@@ -4,11 +4,11 @@
     <img src="https://www.krychtalek.link/favicon" alt="Logo" width="80" height="80">
   </a>
   
-  <h3 align="center">Martin Krychtálek (MakoDev / MakoPog)</h3>
-<p align="center">HTML, CSS Developer
+  <h3 align="center">Martin Krychtálek (SQLK)</h3>
+<p align="center">Front-End Web Developer
   <br>
   <br>
-  <a href="https://krychtalek.dev/makopog"><strong>Website</strong></a><br>
+  <a href="https://sqlk.net"><strong>Website</strong></a><br>
     <a href="https://krychtalek.dev"><strong>Personal Website</strong></a>
 </div>
 

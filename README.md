@@ -5,7 +5,7 @@
   </a>
   
   <h3 align="center">Martin Krychtálek (SQLK)</h3>
-<p align="center">Front-End Web Developer
+<p align="center">Front-End Developer
   <br>
   <br>
   <a href="https://sqlk.net"><strong>Website</strong></a><br>

@@ -4,11 +4,11 @@
     <img src="https://www.krychtalek.link/favicon" alt="Logo" width="80" height="80">
   </a>
   
-  <h3 align="center">Martin Krychtálek (SQLK)</h3>
+  <h3 align="center">Martin Krychtálek (mdmx)</h3>
 <p align="center">Front-End Developer
   <br>
   <br>
-  <a href="https://sqlk.net"><strong>Website</strong></a><br>
+  <a href="https://mdmx.lol"><strong>Website</strong></a><br>
     <a href="https://krychtalek.dev"><strong>Personal Website</strong></a>
 </div>
 

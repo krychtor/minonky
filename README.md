@@ -4,7 +4,7 @@
     <img src="https://www.krychtalek.link/favicon" alt="Logo" width="80" height="80">
   </a>
   
-  <h3 align="center">Martin Krychtálek (mdmx)</h3>
+  <h3 align="center">xdws (Martin Krychtálek)</h3>
 <p align="center">Front-End Developer
   <br>
   <br>

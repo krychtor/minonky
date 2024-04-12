@@ -12,7 +12,7 @@
     <a href="https://krychtalek.dev"><strong>Personal Website</strong></a>
 </div>
 
-<p align="center">
+<p align="center" style="margin-top:50px;">
   <a href="#">
     <img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=minonky&theme=github-dark"/>
 </p>

@@ -14,5 +14,5 @@
 
 <p align="center">
   <a href="#">
-    <img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mkrychtalek&theme=github-dark"/>
+    <img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=minonky&theme=github-dark"/>
 </p>

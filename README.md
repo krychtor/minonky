@@ -5,10 +5,11 @@
   </a>
   
   <h3 align="center">xdws (Martin Krychtálek)</h3>
-<p align="center">Front-End Developer
+<p align="center">Front-End Developer & Designer.
   <br>
   <br>
-  <a href="https://mdmx.lol"><strong>Website</strong></a><br>
+  <a href="https://xdws.work"><strong>Website</strong></a><br>
+    <br>
     <a href="https://krychtalek.dev"><strong>Personal Website</strong></a>
 </div>
   <br>

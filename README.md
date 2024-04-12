@@ -11,8 +11,9 @@
   <a href="https://mdmx.lol"><strong>Website</strong></a><br>
     <a href="https://krychtalek.dev"><strong>Personal Website</strong></a>
 </div>
-
-<p align="center" style="margin-top:50px;">
+  <br>
+  <br>
+<p align="center">
   <a href="#">
     <img alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=minonky&theme=github-dark"/>
 </p>

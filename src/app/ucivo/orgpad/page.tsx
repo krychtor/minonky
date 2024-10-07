@@ -34,7 +34,7 @@ export default function OrgPad() {
   return (
       <body>
         <Navbar />
-        <section className="main mt-20 sm:mx-14 mx-3">
+        <section className="main mt-20 sm:mx-14 mx-auto">
             <div className="flex justify-between">
                 <div className="p-4">
                     <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl">

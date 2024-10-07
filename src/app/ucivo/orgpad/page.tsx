@@ -112,7 +112,7 @@ export default function OrgPad() {
                     </DropdownMenu>
                 </div>
             </div>
-            <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-4 gap-4 justify-center mx-auto">
                 <div>
                     <Card className="w-[350px]">
                         <CardHeader>

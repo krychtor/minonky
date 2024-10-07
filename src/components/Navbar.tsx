@@ -13,7 +13,7 @@ const Navbar: React.FC<NavbarProps> = () => {
     const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
     return (
-        <nav className="fixed top-0 left-0 w-full h-16 px-14 mt-[-10px] bg-background border-b-2 border-border">
+        <nav className="fixed top-0 left-0 w-full h-16 md:px-14 px-0 mt-[-10px] bg-background border-b-2 border-border">
             <div className="container bottom-10 mx-auto p-4 flex justify-between items-center">
                     <div className="flex items-center">
                         <Link href="/">

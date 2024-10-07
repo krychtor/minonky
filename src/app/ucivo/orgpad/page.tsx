@@ -28,7 +28,13 @@ import {
     DropdownMenuSubTrigger,
     DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
-import {Badge} from "@/components/ui/badge";
+import {Badge} from "@/components/ui/badge"
+import type {Metadata} from "next";
+
+export const metadata: Metadata = {
+    title: "OrgPad – Učivo – Miňonky",
+    description: "Všechno on-line dostupné učivo na jednom místě",
+};;
 
 export default function OrgPad() {
   return (

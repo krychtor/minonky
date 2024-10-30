@@ -2,17 +2,17 @@
     "redirects": [
       {
         "source": "/ucivo",
-        "destination": "/ucivo/orgpad",
+        "destination": "/",
         "statusCode": 302
       },
       {
         "source": "/orgpad",
-        "destination": "/ucivo/orgpad",
+        "destination": "https://pivo.best/orgpad",
         "statusCode": 302
       },
       {
         "source": "/(.*)",
-        "destination": "https://minonky.eu/ucivo/orgpad",
+        "destination": "https://pivo.best/orgpad",
         "has": [
           {
             "type": "host",

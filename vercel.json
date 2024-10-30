@@ -6,6 +6,11 @@
         "statusCode": 302
       },
       {
+        "source": "/ucivo/orgpad",
+        "destination": "https://pivo.best/orgpad",
+        "statusCode": 302
+      },
+      {
         "source": "/orgpad",
         "destination": "https://pivo.best/orgpad",
         "statusCode": 302

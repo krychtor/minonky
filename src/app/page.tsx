@@ -1,4 +1,3 @@
-import Navbar from "@/components/Navbar";
 import {
     Card,
     CardContent,
@@ -40,7 +39,6 @@ export const metadata: Metadata = {
 export default function Home() {
     return (
         <body>
-        <Navbar />
         <section className="main">
             <object data="https://orgpad.info/s/JQnOvchAFvK?embed=true"
                     width="400"

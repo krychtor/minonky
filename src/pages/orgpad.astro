@@ -1,0 +1,28 @@
+---
+import Layout from "../layouts/layout.astro";
+---
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OrgPad – minonky.eu</title>
+</head>
+<body>
+<style is:inline>
+  object {
+    filter: invert(1) hue-rotate(180deg);
+  }
+</style>
+<Layout>
+  <div class="w-screen h-screen overflow-hidden">
+    <object
+        data="https://orgpad.info/s/0lh6k1JBEvX?embed=true"
+        class="w-full h-full border-none"
+        type="text/html"
+    >
+      <p>Your browser does not support embedded objects.</p>
+    </object>
+  </div>
+</Layout>
+</body>
+</html>

@@ -1,28 +1,43 @@
 ---
 import Layout from "../layouts/layout.astro";
+
+import {
+  Alert,
+  AlertDescription,
+  AlertTitle,
+} from "../components/ui/alert"
+import { AlertCircle } from "lucide-react";
 ---
+
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>OrgPad – minonky.eu</title>
-</head>
-<body>
-<style is:inline>
-  object {
-    filter: invert(1) hue-rotate(180deg);
-  }
-</style>
-<Layout>
-  <div class="w-screen h-screen overflow-hidden">
-    <object
-        data="https://orgpad.info/s/0lh6k1JBEvX?embed=true"
-        class="w-full h-full border-none"
-        type="text/html"
-    >
-      <p>Your browser does not support embedded objects.</p>
-    </object>
-  </div>
-</Layout>
-</body>
-</html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OrgPad – minonky.eu</title>
+    </head>
+    <body>
+      <style is:inline>
+        object {
+          filter: invert(1) hue-rotate(180deg);
+        }
+      </style>
+      <Layout>
+        <div class="relative w-screen h-screen overflow-hidden">
+          <Alert variant="destructive" className="absolute bg-black m-5 w-auto z-10">
+            <AlertCircle className="h-4 w-4" />
+            <AlertTitle>Stránka není udržována</AlertTitle>
+            <AlertDescription>
+              Stránka dočasně není aktivně udržována a může obsahovat neaktuální obsah. Nová verze stránky je ve vývoji.
+            </AlertDescription>
+          </Alert>
+          <object
+            data="https://orgpad.info/s/0lh6k1JBEvX?embed=true"
+            class="w-full h-full border-none"
+            type="text/html"
+          >
+            <p>Your browser does not support embedded objects.</p>
+          </object>
+        </div>
+      </Layout>
+    </body>
+  </html>
